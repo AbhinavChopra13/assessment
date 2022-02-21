@@ -14,7 +14,7 @@ import com.assessment.service.MyService;
 import com.assessment.service.MyServiceInterface;
 
 /**
- * Servlet implementation class ViewProfileServlet
+ * Servlet implementation class ViewProfileServlet    
  */
 public class ViewProfileServlet extends HttpServlet {
 	
